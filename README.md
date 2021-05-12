@@ -62,7 +62,7 @@ computers emulate the terminals of yesterday is through a program called a
 **command-line interface**, or a **shell**.
 
 Similar to operating systems, there are many different types of shells. The
-shell that Flatiron School supports on the macOS operating system is called
+shell that Academy Xi supports on the macOS operating system is called
 **zsh**, short for Z Shell.
 
 ### macOS Terminal
